@@ -6,8 +6,8 @@ st.write("""
 # SQL SRS
 Spaced Repetition System SQL practice
 """)
-with st.sidebar:
-   option = st.selectbox(
+
+option = st.selectbox(
     "How would you like to review?",
     ["Joins", "GroupBy", "Window Functions"],
     index=None,
