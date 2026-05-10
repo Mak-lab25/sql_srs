@@ -1,7 +1,7 @@
-import streamlit as st
 import pandas as pd
-import duckdb
 import io
+import streamlit as st
+import duckdb
 
 st.write("""
 # SQL SRS
