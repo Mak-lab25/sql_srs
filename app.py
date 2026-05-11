@@ -1,5 +1,5 @@
-import pandas as pd
 import io
+import pandas as pd
 import streamlit as st
 import duckdb
 
