@@ -4,7 +4,15 @@
 
 # Virtual env
 venv/
+<<<<<<< HEAD
 .venv/
+=======
+*.csv
+
+# Virtual environments
+.venv/
+venv/
+>>>>>>> 139bb300 (remove virtual environment files from repository)
 
 # Python cache
 __pycache__/
@@ -13,6 +21,7 @@ __pycache__/
 # Packages
 site-packages/
 
+<<<<<<< HEAD
 # Jupyter
 .ipynb_checkpoints/
 
@@ -25,3 +34,8 @@ Thumbs.db
 
 # Data
 *.csv
+=======
+# IDE
+.idea/
+.vscode/
+>>>>>>> 139bb300 (remove virtual environment files from repository)
