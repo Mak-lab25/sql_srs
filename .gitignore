@@ -2,30 +2,26 @@
 .idea/
 .vscode/
 
-# Virtual environments
+# Virtual env
 venv/
 .venv/
 
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
+# Packages
+site-packages/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # Environment variables
 .env
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
-# Data files
+# Data
 *.csv
-
-# Jupyter
-.ipynb_checkpoints/
