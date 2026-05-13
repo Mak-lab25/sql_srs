@@ -1,41 +1,4 @@
-# IDE
 .idea/
-.vscode/
-
-# Virtual env
-venv/
-<<<<<<< HEAD
 .venv/
-=======
 *.csv
-
-# Virtual environments
-.venv/
-venv/
->>>>>>> 139bb300 (remove virtual environment files from repository)
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Packages
-site-packages/
-
-<<<<<<< HEAD
-# Jupyter
-.ipynb_checkpoints/
-
-# Environment variables
-.env
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Data
-*.csv
-=======
-# IDE
-.idea/
-.vscode/
->>>>>>> 139bb300 (remove virtual environment files from repository)
+test_db.py
